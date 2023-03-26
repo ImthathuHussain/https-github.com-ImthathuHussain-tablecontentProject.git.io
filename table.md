@@ -3,7 +3,6 @@
 # Table #
 ---
 
-
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
 | Python Hat        |   True   | 23.98 |
